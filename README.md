@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+This is the Dorami RISC-V git repo - more content coming soon!
+
 <!--
 **dorami-riscv/dorami-riscv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
